@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloJni</string>
+    <string name="talk_to_ndk">Talk to NDK</string>
+</resources>
